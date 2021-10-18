@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Roha990
+- 👀 I’m interested frontend-development
+- 🌱 I’m currently learning javascript
+- 💞️ I’m looking to collaborate 
