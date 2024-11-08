@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Artem 👋</h1>
-<h3 align="center">Backend developer and computer science student</h3>
+<h3 align="center">Backend developer</h3>
 
 <!--
 **Roha990/Roha990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
