@@ -4,8 +4,8 @@
 
 <table>
   <tr>
-    <td>
-      <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=roha990&show_icons=true&locale=en" alt="roha990" /></p>
+    <td >
+      <p ><img style="height:30vh" src="https://github-readme-stats.vercel.app/api/top-langs?username=roha990&show_icons=true&locale=en&layout=compact" alt="roha990" /></p>
     </td>
     <td>
       <div>
