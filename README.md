@@ -5,6 +5,8 @@
 <p align="left">  </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=roha990&show_icons=true&locale=en&layout=compact" alt="roha990" />
 </p>
+<div>
+<div>
     <h3>Currently working with:</h3> 
     <p>
     <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
@@ -26,6 +28,8 @@
     <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
     <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
   </p>
+</div>
+<div>
     <h3>Previously worked with:</h3>
     <p>
     <img src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff&style=flat-square"/>
@@ -35,6 +39,8 @@
     <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=fff&style=flat-square"/>
     <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=fff&style=flat-square"/>
   </p>
+</div>
+</div>
 </div>
 
 
