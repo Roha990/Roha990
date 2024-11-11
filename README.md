@@ -1,12 +1,5 @@
 <h1 align="center">Hi 👋, I'm Artem </h1>
 <h3 align="center">Backend developer</h2>
-
-<table>
-  <tr>
-    <td >
-      <p ><img style="height:500px" src="https://github-readme-stats.vercel.app/api/top-langs?username=roha990&show_icons=true&locale=en&layout=compact" alt="roha990" /></p>
-    </td>
-    <td>
       <div>
         <h3>Currently working with:</h3>
         <p>
@@ -45,9 +38,7 @@
           <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=flat-square"/>
         </p>
       </div>
-    </td>
-  </tr>
-</table>
+
 
 
 
