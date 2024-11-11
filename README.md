@@ -35,7 +35,9 @@
         <h3>Previously worked with:</h3>
         <p>
           <img src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff&style=flat-square"/>
+          <img src="https://img.shields.io/badge/PostGIS-589632?logo=qgis&logoColor=fff&style=flat-square"/>
           <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
+          <img src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=fff&style=flat-square"/>
           <img src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=Openjdk&logoColor=white"/>
           <img src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
           <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=fff&style=flat-square"/>
